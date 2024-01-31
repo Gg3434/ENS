@@ -1,0 +1,6 @@
+@ENS_HostAddress = http://localhost:5204
+
+GET {{ENS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
